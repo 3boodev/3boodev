@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Flutter , lumen**
 
-- 💬 Ask me about **Compose , Flutter**
+- 💬 Ask me about **Flutter , Dart , Kotlin , JetPack Compose**
 
 - 📫 How to reach me **a.abdelsamad.al@gmail.com**
 
